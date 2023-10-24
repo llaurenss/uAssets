@@ -2,7 +2,7 @@
 ! Version: %version%
 ! Last modified: %timestamp%
 ! Description: Immediate, temporary filters to fix websites
-! Expires: 12 hours
+! Expires: 1 hour
 ! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
 ! Homepage: https://github.com/uBlockOrigin/uAssets
 ! Forums: https://github.com/uBlockOrigin/uAssets/issues
